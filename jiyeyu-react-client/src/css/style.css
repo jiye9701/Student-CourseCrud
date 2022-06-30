@@ -1,0 +1,96 @@
+/* @media all and (min-width: 480px) {
+    .login {
+      padding: 10px 0;
+    } */
+  
+    .login form {
+      margin: 0 auto;
+      max-width: 600px;
+    }
+
+    Form {
+      margin-left: auto;
+      margin-right: auto;
+      margin-top:3%;
+      width:980px;
+
+      background-color: rgb(240, 249, 255);
+      text-align: center;
+  }
+
+  Table {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:3%;
+    width:980px;
+
+
+    text-align: center;
+}
+
+
+  .list{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:3%;
+    width:980px;
+    text-align: center;
+
+
+  }
+  
+  label {
+      display: inline-block;
+      width: 200px;
+  
+  }
+  
+  
+  input {
+      display: inline-block;
+      width:400px; height: 40px;
+      border: 1px solid rgb(218, 216, 216);
+  
+  }
+  
+  text{
+      display: inline-block;
+      width:400px; height: 200px;
+      border: 1px solid rgb(218, 216, 216);
+  
+  }
+  /* .cardTitle{
+    text-align: center;
+
+  } */
+  
+  
+    h1{
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+  
+    }
+    h2{
+      margin-top:3%;
+      text-align: center;
+    }
+  
+    /* login form */
+  .fields {
+      /* width: 30%; */
+      display: inline-block;
+      border: 1px solid rgb(218, 216, 216);
+      /* vertical-align: bottom */
+  }
+  
+  .container {
+      padding: 20px; 
+  }
+  
+  .form-field-no-caption {
+      width: 558px;
+      text-align: center;
+  
+  }
