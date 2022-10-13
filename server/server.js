@@ -2,7 +2,7 @@ const express = require("express")
 const { graphqlHTTP } = require("express-graphql")
 const schema = require("./graphql/schema")
 const connectDB = require("./config/mongoose")
-var cors = require("cors")
+let cors = require("cors")
 const {authenticate} = require("./middleware/auth")
 const app = express()
 
